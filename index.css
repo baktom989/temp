@@ -25,7 +25,7 @@
 }
 
 .tinker{
-    background:url(/assets/img/card_tinker.jpg) no-repeat center center;
+    background:url(card_tinker.jpg) no-repeat center center;
     -webkit-background-size:cover;
     -moz-background-size:cover;
     -o-background-size:cover;
